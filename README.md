@@ -1,4 +1,4 @@
- Networkwalks-B084k-Week-2-Penetration-Testing-Report
+# Networkwalks-B084k-Week-2-Penetration-Testing-Report
 Cybersecurity Lab setup Week 2
 Introduction & Scope
 Objective: Perform security reconnaissance, information gathering, and network scanning as part of Week 2 project requirements.
