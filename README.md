@@ -1,4 +1,4 @@
-# Networkwalks-B084k-Week-2-Penetration-Testing-Report
+ Networkwalks-B084k-Week-2-Penetration-Testing-Report
 Cybersecurity Lab setup Week 2
 Introduction & Scope
 Objective: Perform security reconnaissance, information gathering, and network scanning as part of Week 2 project requirements.
@@ -22,5 +22,6 @@ Inspected the web server response headers and status codes using: curl -I https:
 Step 5: Web Application Firewall Detection (wafw00f)Checked if a WAF protects the web server by running: wafw00f https://networkwalks.com
 Step 6: DNS Enumeration (dnsrecon)
 Gathered structural DNS intelligence and discovered target subdomains using: dnsrecon -d networkwalks.com
+
 Conclusion:
 Successfully completed both required project modules (W2-PM5 Zenmap scanning and W2-PM1 Kali Linux footprinting) while adhering strictly to ethical hacking guidelines and authorization protocols.
